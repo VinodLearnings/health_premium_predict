@@ -74,5 +74,5 @@ if st.button('Predict'):
     print("user clicked on predict")
     prediction = predict(input_dict)
 
-    st.success(f"Prediction Result is {prediction:.2f}")
+    st.success(f"Prediction Result is {prediction:.2f} INR")
     # st.success(f'Predicted Health Insurance Cost: {prediction}')
