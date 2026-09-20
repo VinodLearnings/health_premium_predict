@@ -1,6 +1,7 @@
+# Python 3.13 recommended for this deployment
 numpy==2.4.0
 pandas==2.2.3
-streamlit== 1.51.0
+streamlit==1.51.0
 joblib==1.5.2
-scikit-learn== 1.7.2
+scikit-learn==1.7.2
 xgboost==3.3.0
